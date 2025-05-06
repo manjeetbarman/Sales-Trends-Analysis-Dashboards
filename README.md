@@ -40,5 +40,7 @@ This project is designed to help sales and marketing teams uncover actionable in
 - Sales strategy optimization  
 - Executive-level sales reporting
 
+## 📷 Dashboard Preview
 
+https://github.com/manjeetbarman/Sales-Trends-Analysis-Dashboards/blob/main/Snapshot%20of%20Sales%20%26%20Trends%20Analysis%20Dashboards%20Image.png
 
