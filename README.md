@@ -6,7 +6,7 @@ A powerful and comprehensive **Sales & Trends Analytics Dashboard** that deliver
 
 This project is designed to help sales and marketing teams uncover actionable insights by analyzing sales metrics over time and across different regions. The integration of Python and SQL ensures flexible, efficient data preparation, while Power BI visualizations make the insights accessible and interactive for business users.
 
-## 🚀 Key Features
+## 🚀 Key Features 
 
 - **Sales Performance Monitoring**  
   Track sales by region, product, and time period with rich visual breakdowns.
